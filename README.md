@@ -10,9 +10,6 @@ Many tasks involve mastering mathematical concepts necessary for task understand
 ## Circle to Triangle Animation
 This animation demonstrates the transformation of a circle into a triangle using polar coordinates. The process involves gradually interpolating the vertices of the circle to form the vertices of a triangle, creating a visually engaging transition.
 
-## Mathematical Concepts
-The animation employs several mathematical methods implemented in the `MathUtils` class:
-
 ## Circle to Triangle Animation
 This animation demonstrates the transformation of a circle into a triangle using polar coordinates. The process involves gradually interpolating the vertices of the circle to form the vertices of a triangle, creating a visually engaging transition.
 
